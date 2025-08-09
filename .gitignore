@@ -97,3 +97,17 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignore all VS Code configs by default
+.vscode/*
+
+# Allow only team-wide, non-user-specific configs
+!.vscode/extensions.json     # Recommended extensions for the whole team
+!.vscode/settings.json       # Shared workspace settings (no personal paths)
+!.vscode/tasks.json          # Build/test tasks (e.g., Addressables build pipeline)
+
+# Ignore VS Code workspace state files
+.vscode/*.code-workspace
+.vscode/*.db
+.vscode/*.log
+.vscode/*.cache
