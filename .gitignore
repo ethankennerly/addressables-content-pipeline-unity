@@ -111,3 +111,6 @@ InitTestScene*.unity*
 .vscode/*.db
 .vscode/*.log
 .vscode/*.cache
+
+# Mac metafile
+.DS_Store
