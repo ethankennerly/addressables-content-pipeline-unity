@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "packs": [
+    { "id": "base",        "title": "Base Content",     "releaseUtc": "2025-08-08T00:00:00Z", "catalogFile": "catalog_base_2025-08-08.json" },
+    { "id": "2025-08-09",  "title": "First Expansion",  "releaseUtc": "2025-08-09T00:00:00Z", "catalogFile": "catalog_pack_2025-08-09.json" }
+  ]
+}
