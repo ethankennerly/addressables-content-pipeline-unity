@@ -1,7 +1,7 @@
 # addressables-content-pipeline-unity
 
 Builds and publishes **Unity Addressables** asset bundles and a catalog.  
-This is the content side of a two‑repo architecture. For project purpose and collaboration, see the [project board README](https://github.com/users/ethankennerly/projects/1?readme=1).
+This is the content side of a two‑repo architecture. For project purpose and collaboration, see the [Project README](https://github.com/ethankennerly/addressables-runtime-client-unity/tree/main/Documentation).
 
 ## Purpose
 This repository contains Unity editor configuration and minimal tooling to package game content into Addressables AssetBundles and produce a catalog for the runtime client to load remotely. It supports both local file‑based testing and production deployment.
@@ -38,7 +38,7 @@ This repository contains Unity editor configuration and minimal tooling to packa
 
 ## Related Repository
 Runtime client that consumes this content:  
-[ethankennerly/addressables-runtime-client-unity](https://github.com/ethankennerly/addressables-runtime-client-unity)
+[https://github.com/ethankennerly/addressables-runtime-client-unity](https://github.com/ethankennerly/addressables-runtime-client-unity)
 
 ## License
 MIT
