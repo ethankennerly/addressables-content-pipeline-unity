@@ -15,26 +15,32 @@ MonoBehaviour:
   m_GroupName: Furniture_base
   m_GUID: e9718f99de53b4491bb27f164fe89ad5
   m_SerializeEntries:
-  - m_GUID: 9882e462fd96c49ae891f1be4aa9661e
-    m_Address: furniture/chair/chairModernFrameCushion
+  - m_GUID: 0339bf79e6b4d49219ceb70bd6512b1d
+    m_Address: furniture/chair/chairDesk
     m_ReadOnly: 0
     m_SerializedLabels:
     - furniture:chair
+    - pack:2025-08-09
     - pack:base
+    - pack:base 1
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bcbbe348c67644041ad422d0ba0e327c
-    m_Address: furniture/chair/chairRounded
+  - m_GUID: 7883c07215b0c41ee95db77f2b92702b
+    m_Address: furniture/chair/chair
     m_ReadOnly: 0
     m_SerializedLabels:
     - furniture:chair
+    - pack:2025-08-09
     - pack:base
+    - pack:base 1
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d44181f572c134548a467dc9557f57ff
-    m_Address: furniture/chair/chairModernCushion
+  - m_GUID: 9fa2bbcd0b756482790fecf96a0a57fe
+    m_Address: furniture/chair/chairCushion
     m_ReadOnly: 0
     m_SerializedLabels:
     - furniture:chair
+    - pack:2025-08-09
     - pack:base
+    - pack:base 1
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: dca9f1cda6235479bab9b017c8e974e1, type: 2}
