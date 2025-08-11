@@ -42,3 +42,5 @@ Runtime client that consumes this content:
 
 ## License
 MIT
+
+Except 3D Models from Kenney are CC0.
